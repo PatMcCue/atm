@@ -12,7 +12,7 @@ Instead of separate buttons, a <select> input element was introduced to allow us
 A validation mechanism was implemented to prevent invalid transactions. For example, the user cannot withdraw more money than the account balance. If an invalid transaction is attempted, an alert message is displayed to notify the user.
 
 # Usage
-Open the ATM application.
+Open the ATM application. 
 Select the desired transaction mode (Deposit or Cash Back) from the dropdown menu.
 Enter the transaction amount in the input field.
 Click the "Submit" button to complete the transaction.
