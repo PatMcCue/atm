@@ -5,13 +5,13 @@
 ## Description
 The project initially featured a basic interface with separate buttons for deposit and cashback transactions. However, improvements were made to enhance user experience and functionality:
 
-### Transaction Mode Selection 
+##### Transaction Mode Selection 
 Instead of separate buttons, a select input element was introduced to allow users to switch between Deposit and Cash Back modes. This provides a clear distinction between the two transaction types.
 
-### Input Validation
+##### Input Validation
 A validation mechanism was implemented to prevent invalid transactions. For example, the user cannot withdraw more money than the account balance. If an invalid transaction is attempted, an alert message is displayed to notify the user.
 
-# Usage
+##### Usage
 1. Open the ATM application. 
 2. Select the desired transaction mode (Deposit or Cash Back) from the dropdown menu.
 3. Enter the transaction amount in the input field.
