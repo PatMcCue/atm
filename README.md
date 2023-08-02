@@ -1,14 +1,14 @@
-# atm
+# ATM
 
-## This is a simple ATM (Automated Teller Machine) project implemented using React. The project allows users to perform basic deposit and cashback transactions.
+### This is a simple ATM (Automated Teller Machine) project implemented using React. The project allows users to perform basic deposit and cashback transactions.
 
 ### Description
 The project initially featured a basic interface with separate buttons for deposit and cashback transactions. However, improvements were made to enhance user experience and functionality:
 
-### Transaction Mode Selection: 
+### Transaction Mode Selection 
 Instead of separate buttons, a <select> input element was introduced to allow users to switch between Deposit and Cash Back modes. This provides a clear distinction between the two transaction types.
 
-### Input Validation: 
+### Input Validation
 A validation mechanism was implemented to prevent invalid transactions. For example, the user cannot withdraw more money than the account balance. If an invalid transaction is attempted, an alert message is displayed to notify the user.
 
 ### Usage
